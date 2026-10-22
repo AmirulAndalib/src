@@ -1,13 +1,13 @@
-CairoSVG==2.5.1
-Markdown==2.3.1
+CairoSVG==2.9.1
+Markdown==3.8.1
 Pyphen==0.7
-WeasyPrint==0.19.1
+WeasyPrint==70.0
 argparse==1.2.1
 cairocffi==0.4.2
 cffi==0.6
 cssselect==0.8
 distribute==0.6.24
-lxml==4.6.3
+lxml==6.1.0
 pep8==1.4.5
 pycparser==2.09.1
 pyflakes==0.7.2
